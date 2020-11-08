@@ -4,6 +4,10 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 Most of the commits in this repository correspond to videos in the program.
 
+## Live Demo
+
+https://sameer-mitra-chirper.netlify.app/
+
 ## Project Setup
 
 * clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
